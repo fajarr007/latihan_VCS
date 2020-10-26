@@ -53,7 +53,16 @@
   ![gitpush](foto/pensil.png) <br>
   - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian. <br>
   ![gitpush](foto/comit.png) <br>
+
+   # SETELAH PEMBUATAN AKUN DAN REPOSITORY TELAH SELESAI SELANJUTNYA KITA AKAN ME-REMOTE REPOSITORY PADA GITBASH LOKAL.
+
+
+### CARA ME-REMOTE REPOSITORY PADA GITBASH
+
+  - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy. <br>
+  ![gitpush](foto/copylink.png) <br>
   
+
 
 
 
