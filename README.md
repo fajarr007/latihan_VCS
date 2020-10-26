@@ -42,8 +42,9 @@
   - Bukalah profile kalian, kemudia pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
   - Setelahnya kamu dapat pergi pada tulisan *'New Repository'* <br>
   ![gitpush](foto/repository.png) <br>
+  - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. <br>
+  ![gitpush](foto/create.png) <br>
   
-
 
 
     
