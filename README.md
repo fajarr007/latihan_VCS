@@ -47,6 +47,8 @@
   - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan. <br>
   - Setelah itu arahkan kursor pada bagian *'Create Repository'* <br>
   ![gitpush](foto/createrepo.png) <br>
+  - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README.md' untuk membukanya. <br>
+  ![gitpush](foto/fajar.png) <br>
   
 
 
