@@ -51,6 +51,8 @@
   ![gitpush](foto/fajar.png) <br>
   - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini. <br>
   ![gitpush](foto/pensil.png) <br>
+  - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian. <br>
+  ![gitpush](foto/comit.png) <br>
   
 
 
