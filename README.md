@@ -69,8 +69,10 @@
   - Setelah proses cloning telah selesai, pada saat ini kita masih berada pada folder awal yang dimana kita harus masuk kedalam folder yang telah kita cloning tadi yaitu *'LatihanVCS'* dengan cara mengetikkan syntax: *'cd LatihanVCS/'* <br>
   ![gitpush](foto/CD.png) <br>
   - Setelahnya kita akan masuk kedalam folder *LatihanVCS* seperti gambar dibawah ini. Kalian bisa mengedit file README.md kalian yang ada pada File Explorer dengan menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code) sesuai dengan keinginan kalian. Tapi jika disini saya menggunakan visual studio code untuk mengeditnya. <br>
-   - Setelah selesai mengedit jangan lupa untuk menyimpannya dengan cara menekan tombol file yang berada dipojok kiri  atas dan pilihlah kolom save. <br>
+  - Setelah selesai mengedit jangan lupa untuk menyimpannya dengan cara menekan tombol file yang berada dipojok kiri  atas dan pilihlah kolom save. <br>
   ![gitpush](foto/visual.png) <br>
+  - Setelah sudah dapat dipastikan benar-benar tersimpan. Langkah selanjutnya adalah membuka kembali App Gitbash dan mengetikan syntax: *'git add .'* <br>
+  ![gitpush](foto/add.png) <br>
   
   
 
