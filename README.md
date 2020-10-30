@@ -78,6 +78,7 @@
   - Setelah git commit selesai di lakukan. Untuk saat ini kita akan melakuka Git Push, yang dimana arti Git Push itu sendiri berfungsi untuk mengirimkan perubahan file yang telah di commit ke remote repository. Kalian hanya perlu mengetikan syntax: *'git push'*. <br>
   ![gitpush](foto/finis.png) <br>
   
+
   
 
 
